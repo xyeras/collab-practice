@@ -1,29 +1,12 @@
-h1 {
-    background-color: orange;
-    color: black;
-    height: 75px;
-}
-  
-nav {
-    background-color: black;
-    color: orange;
-}
-  
-section {
-    background-color: lightseagreen;
-    height: 500px;
-}
-
-.box-1 {
+.content_wrapper {
+    height: 80vh;
     background-color: lightpink;
 }
 
-.box-2 {
-    background-color: lightsalmon;
+.height_one-hundred {
+    height: 100%;
 }
 
 footer {
-      background-color: lightskyblue;
-      color: black;
-      height: 100px;
+    height: 200px;
 }
